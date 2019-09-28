@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://queemaitho.hankookfa.com/sitemap.xml
